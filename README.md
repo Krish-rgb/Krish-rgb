@@ -1,7 +1,6 @@
-- 👋 Hi, I’m @Krish-rgb
-- 👀 I’m interested in Gaming nd Game Developing
-- 🌱 I’m currently learning Coding and Game Developing
-- 💞️ I’m looking to collaborate on ...
+- 👋 Hi, I’m @Krish-chadha
+- 👀 I’m interested in UI/UX Designing nd Game Developing
+- 🌱 I’m currently learning Programming.
 - 📫 How to reach me Mail:-krishchadha888@gmail.com
 
 <!---
